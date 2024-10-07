@@ -46,7 +46,6 @@ pipeline {
                 echo 'This is the Second Test'
                 echo 'This is the second deploy'
                 echo 'This is the third deploy'
-                echo 'build,test.deploy has been failed'
             
             }
         }
